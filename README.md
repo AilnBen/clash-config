@@ -16,6 +16,12 @@ https://raw.githubusercontent.com/AilnBen/clash-config/copilot/automate-daily-no
 https://raw.githubusercontent.com/AilnBen/clash-config/main/config.yaml
 ```
 
+**PR 国内加速链接（长期稳定链接）：**
+
+```
+https://cdn.jsdelivr.net/gh/AilnBen/clash-config@main/config.yaml
+```
+
 ## 自动更新说明
 
 - GitHub Actions 每天北京时间 14:00（UTC 06:00）自动运行
