@@ -4,7 +4,13 @@
 
 ## 订阅链接
 
-直接将以下固定链接添加到你的 Clash 客户端作为订阅：
+**PR 合并前（立即可用）：**
+
+```
+https://raw.githubusercontent.com/AilnBen/clash-config/copilot/automate-daily-node-update/config.yaml
+```
+
+**PR 合并到 main 后（长期稳定链接）：**
 
 ```
 https://raw.githubusercontent.com/AilnBen/clash-config/main/config.yaml
