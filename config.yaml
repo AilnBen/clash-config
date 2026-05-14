@@ -37,7 +37,7 @@ proxy-providers:
 
 # 机场信息开始
   freecloud:
-    url: "https://raw.githubusercontent.com/free-nodes/clashfree/main/clash20260513.yml"
+    url: "https://raw.githubusercontent.com/free-nodes/clashfree/main/clash20260514.yml"
     type: http
     interval: 86400
     health-check:
